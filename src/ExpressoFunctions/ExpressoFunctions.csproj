@@ -2,6 +2,19 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>HubCloud</Copyright>
+    <PackageId>HubCloud.ExpressoFunctions</PackageId>
+    <Authors>HubCloud</Authors>
+    <Product>HubCloud.ExpressoFunctions</Product>
+    <Version>0.1.1</Version>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageVersion>0.1.1</PackageVersion>
+    <Description>Useful functions for using with DynamicExpresso interpreter</Description>
+    <PackageProjectUrl>https://github.com/HubCloud-io/ExpressoFunctions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/HubCloud-io/ExpressoFunctions</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Company>HubCloud.io</Company>
   </PropertyGroup>
 
 </Project>
